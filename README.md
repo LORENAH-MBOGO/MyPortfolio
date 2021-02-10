@@ -1,41 +1,41 @@
 ## My Portfolio
 
-# Author Name
+## Author Name
 
-## Lorenah M.
+### Lorenah M.
 
-# Project Description
+## Project Description
 
-## A brief description of my professional background and Projects.
+### A brief description of my professional background and Projects.
 
-# Setup
+## Setup
 
-## Install _Visual Studio Code Version 1.49.2_ to view folder files.
+### Install _Visual Studio Code Version 1.49.2_ to view folder files.
 
-## Install _Chrome Version 85.0.4183.121 (Official Build) (64-bit)_ or any other compatible browser.
+### Install _Chrome Version 85.0.4183.121 (Official Build) (64-bit)_ or any other compatible browser.
 
-## Enable JavaScript and Images on browser settings.
+### Enable JavaScript and Images on browser settings.
 
-## Run index.html file on Chrome Version 85.0.4183.121 (Official Build) (64-bit) or any other compatible browser to view file.
+### Run index.html file on Chrome Version 85.0.4183.121 (Official Build) (64-bit) or any other compatible browser to view file.
 
-# GitHub Link.
+## GitHub Link.
 
-##
+### https://lorenah-mbogo.github.io/MyPortfolio/
 
-# Technologies Used
+## Technologies Used
 
-## HTML, CSS
+### HTML, CSS
 
 ## Installation
-## `https://github.com/LORENAH-MBOGO/MyPortfolio` this repository
+### https://github.com/LORENAH-MBOGO/MyPortfolio this repository
 
-## `cd My-Portfolio`
+### cd My-Portfolio
 
-# Contact Details and Documentation
+## Contact Details and Documentation
 
-## You can reach me via my personal email lorayne911@gmail.com
+### You can reach me via my personal email lorayne911@gmail.com
 
 
-# License
+## License
 
-## This project is licensed under the MIT Open Source license Copyright (c) 2021. [LICENCE](LICENSE)
+### This project is licensed under the MIT Open Source license Copyright (c) 2021. [LICENCE](LICENSE)
